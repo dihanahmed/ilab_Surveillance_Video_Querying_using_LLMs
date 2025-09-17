@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Artifacts & generated files
+artifacts/
+index/
+*.index
+*.jsonl
+
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
