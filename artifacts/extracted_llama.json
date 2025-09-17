@@ -1,0 +1,5237 @@
+[
+  {
+    "video_id": "Abuse001_x264",
+    "sent_idx": 0,
+    "start": 0.0,
+    "end": 5.3,
+    "sentence": "A woman with short hair, slightly fat, wearing a white top and black pants stood in front of the table, picked up a book from the table, and opened it to read",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "female",
+          "short hair",
+          "slightly fat"
+        ],
+        "actions": [
+          "picking up a book",
+          "opening it to read"
+        ],
+        "interactions": [
+          "table"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse001_x264",
+    "sent_idx": 1,
+    "start": 7.0,
+    "end": 8.5,
+    "sentence": "A man wearing a white shirt and black pants entered the house and walked towards the short-haired and fat woman in front who was reading a book.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "male",
+          "white shirt",
+          "black pants"
+        ],
+        "actions": [
+          "entered the house",
+          "walked towards"
+        ],
+        "interactions": [
+          "short-haired and fat woman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse001_x264",
+    "sent_idx": 2,
+    "start": 7.2,
+    "end": 8.5,
+    "sentence": "A man wearing a black shirt and black pants entered the house and walked towards the short-haired and fat woman in front who was reading a book.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "male",
+          "black shirt",
+          "black pants"
+        ],
+        "actions": [
+          "entered the house",
+          "walked towards"
+        ],
+        "interactions": [
+          "short-haired and fat woman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse001_x264",
+    "sent_idx": 3,
+    "start": 8.2,
+    "end": 8.9,
+    "sentence": "A man wearing a white shirt and black pants approached a short-haired, fat woman wearing a white shirt and black pants. When the woman was not paying attention, the man suddenly pulled out a piece of red cloth from the left side of the woman's body, then turned and ran away.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse001_x264",
+    "sent_idx": 4,
+    "start": 8.9,
+    "end": 11.2,
+    "sentence": "A man in black clothes approached a short-haired, fat woman wearing a white top and black pants. When the woman turned back to the right, he punched the woman in the head and ran out. .",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "male",
+          "black clothes"
+        ],
+        "actions": [
+          "punched the woman in the head"
+        ],
+        "interactions": [
+          "woman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse001_x264",
+    "sent_idx": 5,
+    "start": 8.9,
+    "end": 11.2,
+    "sentence": "The woman fell to the ground in pain, and the book in her hand fell to the ground when she fell. At the same time, she knocked the red wooden table in front of her crookedly. There were three things on the table.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "wooden",
+          "red"
+        ],
+        "actions": [
+          "fell",
+          "knocked"
+        ],
+        "interactions": [
+          "table",
+          "book",
+          "woman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse001_x264",
+    "sent_idx": 6,
+    "start": 11.3,
+    "end": 13.3,
+    "sentence": "A woman with short hair and a fat figure wearing a white top and black pants fell to the ground, raised her right hand to touch her forehead, and hit her head on the wooden table leg.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "female",
+          "short hair",
+          "fat figure"
+        ],
+        "actions": [
+          "fell to the ground",
+          "raised her right hand to touch her forehead",
+          "hit her head on the wooden table leg"
+        ],
+        "interactions": [
+          "table leg"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse001_x264",
+    "sent_idx": 7,
+    "start": 15.2,
+    "end": 18.9,
+    "sentence": "A woman with short hair, slightly fat, wearing a white top and black pants fell to the ground. She touched her forehead with her right hand and looked towards the direction of entering the house. She retracted her left leg, supported her left hand on the ground, and held her forehead with her right hand. Upper body.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "short hair",
+          "slightly fat",
+          "white top",
+          "black pants"
+        ],
+        "actions": [
+          "fell to the ground"
+        ],
+        "interactions": [
+          "house"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse001_x264",
+    "sent_idx": 8,
+    "start": 19.7,
+    "end": 25.4,
+    "sentence": "A woman with short hair, slightly fat, wearing a white top and black pants is sitting on the ground, leaning on the ground with her left hand, her right hand dropped from her head and placed on the knee of her right leg, her right leg is bent, she turns her head and kicks with her left leg Kneel down on the ground, stand up with your right hand on the ground.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "short hair",
+          "slightly fat"
+        ],
+        "actions": [
+          "kneel down",
+          "stand up"
+        ],
+        "interactions": [
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 0,
+    "start": 0.0,
+    "end": 2.3,
+    "sentence": "At an intersection with smooth traffic, the green light is on, and the vehicles on the opposite side drive out at the same time. There are many white cars and many passers-by on bicycles and electric vehicles.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "smooth",
+          "traffic",
+          "green light",
+          "vehicles on the opposite side",
+          "driving out at the same time",
+          "many white cars",
+          "many passers-by on bicycles and electric vehicles"
+        ],
+        "actions": [
+          "none"
+        ],
+        "interactions": [
+          "none"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 1,
+    "start": 0.0,
+    "end": 2.3,
+    "sentence": "The first car in the middle lane on the right was a silver van. After he drove out, after the rear wheel crossed the white solid line, a man wearing long sleeves fell from the trunk of the van. The undressed child fell to the ground.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "silver van",
+          "long sleeves"
+        ],
+        "actions": [
+          "driving",
+          "crossed the white solid line"
+        ],
+        "interactions": [
+          "man",
+          "child"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 2,
+    "start": 2.3,
+    "end": 3.2,
+    "sentence": "The surrounding cars, bicycles, and electric vehicles are still moving forward, including the silver van, whose trunk is still open",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "silver van",
+          "trunk is still open"
+        ],
+        "actions": [
+          "moving forward"
+        ],
+        "interactions": [
+          "cars",
+          "bicycles",
+          "electric vehicles"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 3,
+    "start": 2.3,
+    "end": 3.3,
+    "sentence": "The fallen child got up from the ground, while the vehicle behind him was still approaching him.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "fallen",
+          "got up",
+          "approaching him"
+        ],
+        "interactions": [
+          "vehicle",
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 4,
+    "start": 3.5,
+    "end": 4.2,
+    "sentence": "All vehicles continued to move forward. A silver car behind the silver van in the middle lane on the right was also moving forward. At the same time, it passed the child who was trying to get up from the ground. The child was crushed. Under the car.",
+    "extracted": [
+      {
+        "id": "vehicle_1",
+        "type": "vehicle",
+        "attributes": [
+          "silver",
+          "car"
+        ],
+        "actions": [
+          "moving forward"
+        ],
+        "interactions": [
+          "child",
+          "car",
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 5,
+    "start": 4.6,
+    "end": 5.5,
+    "sentence": "Other vehicles continued to drive forward. The silver van in the middle lane on the right and the silver car behind suddenly braked.",
+    "extracted": [
+      {
+        "id": "vehicle_1",
+        "type": "vehicle",
+        "attributes": [
+          "silver",
+          "van",
+          "middle lane",
+          "right",
+          "car",
+          "behind"
+        ],
+        "actions": [
+          "braking"
+        ],
+        "interactions": [
+          "other vehicles"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 6,
+    "start": 5.3,
+    "end": 8.5,
+    "sentence": "The right passenger door of the silver van in front opened first and a woman got out and ran towards the bottom of the car in front of the silver sedan behind.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "silver van",
+          "right passenger door"
+        ],
+        "actions": [
+          "opened first",
+          "a woman got out"
+        ],
+        "interactions": [
+          "woman",
+          "ran towards the bottom of the car"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 7,
+    "start": 7.3,
+    "end": 9.3,
+    "sentence": "Immediately, a man got out of the driver's seat on the left and ran towards the bottom of the car in front of the silver sedan. The double side doors of the silver van were still open and he forgot to close them.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "silver sedan",
+          "double side doors",
+          "left",
+          "right",
+          "front of the car"
+        ],
+        "actions": [
+          "got out of the driver's seat",
+          "ran towards the bottom of the car"
+        ],
+        "interactions": [
+          "car",
+          "van",
+          "driver"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 8,
+    "start": 8.5,
+    "end": 10.6,
+    "sentence": "The woman made a gesture to ask the silver car to retreat.",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "red top"
+        ],
+        "actions": [
+          "made a gesture to ask the silver car to retreat"
+        ],
+        "interactions": [
+          "silver car"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 9,
+    "start": 10.5,
+    "end": 14.6,
+    "sentence": "The silver car retreats.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "silver"
+        ],
+        "actions": [
+          "retreats"
+        ],
+        "interactions": []
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 10,
+    "start": 11.9,
+    "end": 13.5,
+    "sentence": "Most of the vehicles in the intersection continued to move forward. The man in front of the car leaned over and picked up the child under the car. The man held the child in his arms.",
+    "extracted": [
+      {
+        "id": "vehicle_1",
+        "type": "vehicle",
+        "attributes": [],
+        "actions": [
+          "picking up",
+          "holding child"
+        ],
+        "interactions": [
+          "car",
+          "child"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 11,
+    "start": 11.9,
+    "end": 13.5,
+    "sentence": "The light blue car behind the silver car wants to change lanes to bypass the silver car in front",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "light blue",
+          "silver"
+        ],
+        "actions": [
+          "change lanes"
+        ],
+        "interactions": [
+          "silver car"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 12,
+    "start": 14.3,
+    "end": 16.5,
+    "sentence": " Other vehicles continued to drive forward. The sliding door on the right side of the silver van in the middle lane on the right opened. A woman wearing a hat walked towards the couple holding the child. The driver's seat on the left side of the silver van was car door closed",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 13,
+    "start": 14.3,
+    "end": 16.5,
+    "sentence": "The woman in the couple picks up the child's things from the ground, and the man in the couple stands holding the child",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 14,
+    "start": 16.5,
+    "end": 18.6,
+    "sentence": "Most of the vehicles in the intersection continued to move forward. The sliding door on the right side of the silver van in the middle lane on the right opened and a woman holding a child walked towards the couple and a woman holding a child in front of the silver car behind;",
+    "extracted": [
+      {
+        "id": "vehicle_1",
+        "type": "vehicle",
+        "attributes": [
+          "silver",
+          "van"
+        ],
+        "actions": [
+          "opened",
+          "moved forward"
+        ],
+        "interactions": [
+          "woman holding a child",
+          "woman holding a child"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 15,
+    "start": 16.5,
+    "end": 18.6,
+    "sentence": "The driver's seat and passenger's seat doors of the silver car behind were opened.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "silver car"
+        ],
+        "actions": [
+          "opened"
+        ],
+        "interactions": [
+          "driver's seat",
+          "passenger's seat"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 16,
+    "start": 18.6,
+    "end": 25.1,
+    "sentence": "Most of the vehicles in the intersection continued to move forward. A woman in a green top got out of the driver's seat of the silver car in the middle lane on the right, and a woman in a gray top got out of the passenger seat. They ran forward and checked. child,",
+    "extracted": [
+      {
+        "id": "vehicle_1",
+        "type": "vehicle",
+        "attributes": [
+          "green top",
+          "silver car",
+          "gray top"
+        ],
+        "actions": [
+          "got out of the driver's seat",
+          "got out of the passenger seat"
+        ],
+        "interactions": [
+          "child"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 17,
+    "start": 18.6,
+    "end": 25.1,
+    "sentence": "A woman in a gray top got out of the passenger seat and ran forward to check on the child.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "female",
+          "gray top"
+        ],
+        "actions": [
+          "got out of the passenger seat",
+          "ran forward"
+        ],
+        "interactions": [
+          "child"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 18,
+    "start": 18.6,
+    "end": 25.1,
+    "sentence": "The man held the child and walked towards the direction of the silver van, and the others followed",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "silver van"
+        ],
+        "actions": [
+          "held the child",
+          "walked towards the direction of the silver van"
+        ],
+        "interactions": [
+          "others"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 19,
+    "start": 27.3,
+    "end": 28.4,
+    "sentence": "Most of the vehicles in the intersection continued to move forward. The man in the couple held the child and walked towards the silver van in the middle lane on the right, and the woman in the couple walked towards the passenger seat.",
+    "extracted": [
+      {
+        "id": "vehicle_1",
+        "type": "vehicle",
+        "attributes": [
+          "silver",
+          "van"
+        ],
+        "actions": [
+          "moving forward"
+        ],
+        "interactions": [
+          "child",
+          "man",
+          "woman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 20,
+    "start": 27.3,
+    "end": 28.4,
+    "sentence": "The woman in a green top stood at the side of the silver car behind the silver van and looked at them",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "green top"
+        ],
+        "actions": [
+          "stood at the side of",
+          "looked at them"
+        ],
+        "interactions": [
+          "silver car",
+          "silver van"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse002_x264",
+    "sent_idx": 21,
+    "start": 27.3,
+    "end": 28.4,
+    "sentence": "The woman wearing a red top holding a child walks in the direction of the woman in the couple.",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "red top"
+        ],
+        "actions": [
+          "walking",
+          "holding a child"
+        ],
+        "interactions": [
+          "child"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 0,
+    "start": 0.0,
+    "end": 23.1,
+    "sentence": "A woman in black short-sleeves pushed an old man in a wheelchair from one end of the corridor to the other. The old man was wearing a long-sleeved top, with a blanket covering his legs, and his head tilted toward his left shoulder. , keep one posture motionless",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 1,
+    "start": 23.1,
+    "end": 30.7,
+    "sentence": "A woman in black short-sleeves pushed an old man in a wheelchair around the door at one end of the corridor and continued pushing back.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "black short-sleeves"
+        ],
+        "actions": [
+          "pushing",
+          "old man in a wheelchair"
+        ],
+        "interactions": [
+          "old man in a wheelchair"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 2,
+    "start": 30.7,
+    "end": 31.9,
+    "sentence": "A woman in black short-sleeves pushed an old man in a wheelchair to the left wall and released her hand pushing the wheelchair. The old man in the wheelchair bumped with the wheelchair. toward the wall.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 3,
+    "start": 31.8,
+    "end": 32.7,
+    "sentence": "The wheelchair carrying an old man slid forward along the left wall of the corridor",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 4,
+    "start": 31.8,
+    "end": 32.7,
+    "sentence": "The woman in black clothes immediately stepped forward to hold the handle of the wheelchair.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "black clothes"
+        ],
+        "actions": [
+          "stepped forward",
+          "hold the handle of the wheelchair"
+        ],
+        "interactions": [
+          "wheelchair"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 5,
+    "start": 33.6,
+    "end": 35.4,
+    "sentence": "The woman in black clothes pushed the old man in the wheelchair to the left wall of the corridor, then released her hands and raised them above her head, letting the wheelchair carrying the old man slide forward. .",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "black clothes"
+        ],
+        "actions": [
+          "pushed",
+          "released her hands",
+          "raised them above her head"
+        ],
+        "interactions": [
+          "old man",
+          "wheelchair"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 6,
+    "start": 35.7,
+    "end": 37.0,
+    "sentence": "A woman in black clothes held the wheelchair carrying an old man forward and pushed it to the other end of the corridor.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "black clothes"
+        ],
+        "actions": [
+          "carrying",
+          "pushed"
+        ],
+        "interactions": [
+          "old man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 7,
+    "start": 36.9,
+    "end": 38.0,
+    "sentence": "The wheelchair carrying the old man suddenly slid towards the wall on the right side of the corridor. The woman pushing him immediately held the wheelchair hard to prevent it from hitting the wall.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "wheelchair",
+          "old man"
+        ],
+        "actions": [
+          "slid",
+          "pushed"
+        ],
+        "interactions": [
+          "wall",
+          "corridor"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 8,
+    "start": 38.0,
+    "end": 38.9,
+    "sentence": "The woman pushing the wheelchair released her hands, and the old man sat on the wheelchair and slid by himself.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "pushing",
+          "released her hands"
+        ],
+        "interactions": [
+          "old man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 9,
+    "start": 39.6,
+    "end": 41.9,
+    "sentence": "The woman walked forward behind the wheelchair. The old man slid forward in the wheelchair until the wheelchair hit the end of the corridor. The woman walked from the left side of the wheelchair to behind the wheelchair to support the wheelchair again. .",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "unknown"
+        ],
+        "actions": [
+          "walked",
+          "slid forward"
+        ],
+        "interactions": [
+          "wheelchair",
+          "left side",
+          "behind wheelchair",
+          "support wheelchair"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 10,
+    "start": 42.0,
+    "end": 46.7,
+    "sentence": "The woman pushed the old man in the wheelchair around a corner at the end of the corridor and continued to push forward in the opposite direction.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown",
+          "old man"
+        ],
+        "actions": [
+          "pushed",
+          "pushed in the wheelchair"
+        ],
+        "interactions": [
+          "old man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 11,
+    "start": 50.0,
+    "end": 61.5,
+    "sentence": "A woman in black short-sleeves pushed an old man in a wheelchair from one end of the corridor to the other. The old man was wearing a long-sleeved top, with a blanket covering his legs, and his head tilted toward his left shoulder , maintaining a posture motionless, the woman's face was expressionless during this process.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "corridor",
+          "old man",
+          "blanket",
+          "long-sleeved top",
+          "head tilted toward left shoulder",
+          "woman's face expressionless"
+        ],
+        "actions": [
+          "pushed"
+        ],
+        "interactions": [
+          "old man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 12,
+    "start": 61.9,
+    "end": 69.0,
+    "sentence": "A woman wearing black short-sleeves pushed an old man in a wheelchair around the door at one end of the corridor and continued pushing back.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "black short-sleeves"
+        ],
+        "actions": [
+          "pushing",
+          "old man in wheelchair"
+        ],
+        "interactions": [
+          "old man in wheelchair"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 13,
+    "start": 69.0,
+    "end": 70.5,
+    "sentence": "A woman in black short-sleeves pushed an old man in a wheelchair to the left wall and let go of the hand pushing the wheelchair. The old man in the wheelchair bumped with the wheelchair. towards the wall,",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "old man",
+          "black short-sleeves"
+        ],
+        "actions": [
+          "bumped with the wheelchair",
+          "pushed the wheelchair"
+        ],
+        "interactions": [
+          "wheelchair",
+          "hand pushing the wheelchair"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 14,
+    "start": 69.0,
+    "end": 70.5,
+    "sentence": "The woman in black clothes immediately stepped forward to hold the handle of the wheelchair.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "black clothes"
+        ],
+        "actions": [
+          "stepped forward",
+          "hold the handle of the wheelchair"
+        ],
+        "interactions": [
+          "wheelchair"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 15,
+    "start": 70.5,
+    "end": 72.3,
+    "sentence": "The woman in black short-sleeves pushed the old man in the wheelchair to the left wall again. The old man in the wheelchair hit the wall with the wheelchair, and his head shook with the collision. , after the collision, the woman held on to the wheelchair again.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 16,
+    "start": 72.8,
+    "end": 74.7,
+    "sentence": "The woman pushed the old man in the wheelchair and turned left and right forward, sometimes letting go of her hand and walking to the right side of the wheelchair; the wheelchair slid forward, and she walked forward.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "old man"
+        ],
+        "actions": [
+          "pushed",
+          "turned left and right forward",
+          "sometimes letting go of her hand and walking to the right side of the wheelchair"
+        ],
+        "interactions": [
+          "old man",
+          "wheelchair",
+          "right side of the wheelchair"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 17,
+    "start": 75.4,
+    "end": 77.0,
+    "sentence": "The woman walked on the right side of the wheelchair, looking at the old man in the wheelchair as she walked. The old man sat on the wheelchair with his head lowered and slid forward. The woman went around the back of the wheelchair to hold the wheelchair and push it.",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "red top"
+        ],
+        "actions": [
+          "walking",
+          "looking at",
+          "sliding forward",
+          "going around the back of the wheelchair",
+          "holding the wheelchair",
+          "pushing the wheelchair"
+        ],
+        "interactions": [
+          "old man",
+          "child"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 18,
+    "start": 76.9,
+    "end": 77.6,
+    "sentence": "The woman suddenly released her hands and raised them above her head, letting the old man in the wheelchair slide forward on his own.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "old man"
+        ],
+        "actions": [
+          "suddenly released her hands",
+          "raised them above her head"
+        ],
+        "interactions": [
+          "old man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 19,
+    "start": 78.4,
+    "end": 84.1,
+    "sentence": "The woman pushed the old man in the wheelchair towards the end of the corridor.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "pushed"
+        ],
+        "interactions": [
+          "old man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 20,
+    "start": 84.5,
+    "end": 89.4,
+    "sentence": "The woman pushed the old man in the wheelchair around a corner at the end of the corridor and continued to push back.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown",
+          "old man"
+        ],
+        "actions": [
+          "pushed",
+          "pushed back"
+        ],
+        "interactions": [
+          "old man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 21,
+    "start": 91.1,
+    "end": 95.2,
+    "sentence": "The woman suddenly pushed the old man in the wheelchair to speed up, and immediately let go after running. The woman stopped in place, and the old man slid forward with the wheelchair.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 22,
+    "start": 95.5,
+    "end": 97.1,
+    "sentence": "The woman walked forward, and the old man in the wheelchair hit the left wall with his head lowered and stopped.",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "unknown"
+        ],
+        "actions": [
+          "walked forward",
+          "hit the left wall with his head lowered and stopped"
+        ],
+        "interactions": [
+          "old man in the wheelchair"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 23,
+    "start": 97.1,
+    "end": 99.5,
+    "sentence": "After the old man in the wheelchair hit the wall, the wheelchair immediately backed up and turned to face the woman behind the wheelchair. The woman opened her arms when the wheelchair turned towards her.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 24,
+    "start": 99.6,
+    "end": 102.0,
+    "sentence": "The wheelchair carrying the old man slid to the right wall and slid along the wall in the direction of the woman just now. The woman walked around the left side of the wheelchair while the wheelchair was sliding.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "wall",
+          "left side"
+        ],
+        "actions": [
+          "sliding",
+          "sliding along"
+        ],
+        "interactions": [
+          "woman",
+          "old man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 25,
+    "start": 102.8,
+    "end": 107.2,
+    "sentence": "The woman went around behind the wheelchair, pushed the wheelchair and turned around, pushing the old man in the wheelchair forward.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 26,
+    "start": 107.5,
+    "end": 113.2,
+    "sentence": "The woman pushed the old man in the wheelchair and continued to move forward, hitting the left side of the wall from time to time. The old man remained motionless.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "old man"
+        ],
+        "actions": [
+          "pushed",
+          "hit the left side of the wall"
+        ],
+        "interactions": [
+          "left side of the wall"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse003_x264",
+    "sent_idx": 27,
+    "start": 113.2,
+    "end": 118.6,
+    "sentence": "The woman pushed the old man in the wheelchair forward quickly",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "unknown"
+        ],
+        "actions": [
+          "pushed",
+          "forward quickly"
+        ],
+        "interactions": [
+          "old man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 0,
+    "start": 0.0,
+    "end": 9.6,
+    "sentence": "Two bald policemen in black uniforms held the iron mesh gate and talked to a male prisoner sitting on a black chair. The male prisoner was wearing a blue shirt and gray-green trousers. , and a pair of black sneakers, during which the two police officers occasionally talked to each other.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "iron mesh gate",
+          "black uniform",
+          "male prisoner",
+          "blue shirt",
+          "gray-green trousers",
+          "pair of black sneakers"
+        ],
+        "actions": [
+          "held the iron mesh gate",
+          "talked to the male prisoner"
+        ],
+        "interactions": [
+          "male prisoner",
+          "police officers"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 1,
+    "start": 9.9,
+    "end": 15.2,
+    "sentence": "A male prisoner wearing a blue shirt, gray-green trousers, and a pair of black sneakers stood up from the stool and faced the two men in black uniforms outside the iron mesh fence door. of police.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "blue shirt",
+          "gray-green trousers",
+          "black sneakers"
+        ],
+        "actions": [
+          "stood up",
+          "faced"
+        ],
+        "interactions": [
+          "two men in black uniforms",
+          "police"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 2,
+    "start": 16.6,
+    "end": 17.8,
+    "sentence": "After two policemen in black uniforms looked at each other, one of the policemen in black uniforms took out a can of something, shook it a few times, and sprayed it on the man in a blue shirt and gray-green trousers. A male prisoner wearing pants and a pair of black sneakers,",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "black",
+          "can of something",
+          "shaking it a few times",
+          "spraying it on the man"
+        ],
+        "actions": [
+          "took out a can of something",
+          "shook it a few times",
+          "sprayed it on the man"
+        ],
+        "interactions": [
+          "one of the policemen in black uniforms",
+          "the man in a blue shirt and gray-green trousers"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 3,
+    "start": 17.6,
+    "end": 17.8,
+    "sentence": "The male prisoner swung his hands, immediately turned back and backed away, and turned around.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "swung his hands",
+          "turned back",
+          "backed away",
+          "turned around"
+        ],
+        "interactions": [
+          "prisoner",
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 4,
+    "start": 17.6,
+    "end": 19.2,
+    "sentence": "One of the two policemen in black uniforms put away the can of liquid in his hand, opened the iron mesh gate, and pushed it to one side.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "black uniform"
+        ],
+        "actions": [
+          "put away",
+          "opened",
+          "pushed to one side"
+        ],
+        "interactions": [
+          "can of liquid"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 5,
+    "start": 17.6,
+    "end": 19.2,
+    "sentence": "The male prisoner, wearing a blue shirt, gray-green trousers, and a pair of black sneakers, stepped back and walked towards the corner. With no way to retreat, he turned a corner and faced the two police officers. direction.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "blue shirt",
+          "gray-green trousers",
+          "black sneakers"
+        ],
+        "actions": [
+          "stepped back",
+          "walked towards the corner"
+        ],
+        "interactions": [
+          "two police officers"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 6,
+    "start": 20.1,
+    "end": 23.8,
+    "sentence": "Two policemen in black uniforms were waiting for the door to open slowly at the door of the iron mesh fence.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "black uniform"
+        ],
+        "actions": [
+          "waiting for the door to open slowly"
+        ],
+        "interactions": [
+          "door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 7,
+    "start": 20.1,
+    "end": 23.8,
+    "sentence": "The prisoner was standing and shaking with his hands raised in the corner.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "standing",
+          "shaking with hands raised"
+        ],
+        "interactions": [
+          "corner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 8,
+    "start": 22.4,
+    "end": 29.4,
+    "sentence": "Two policemen in black uniforms were at the door of the iron mesh fence. One of them put something in his hand into his pants, and then took out a stick from his pants and walked towards the prisoner opposite. , raised his stick and wanted to hit the prisoner, another policeman followed behind the first policeman.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "black uniform",
+          "iron mesh fence"
+        ],
+        "actions": [
+          "put something in hand",
+          "walks towards prisoner",
+          "raises stick",
+          "hits prisoner"
+        ],
+        "interactions": [
+          "prisoner",
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 9,
+    "start": 29.1,
+    "end": 30.3,
+    "sentence": "A bald policeman in uniform beat the prisoner hard with a stick. Another policeman walked towards them at the door, and the prisoner had no power to fight back.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "uniform"
+        ],
+        "actions": [
+          "beat the prisoner hard with a stick"
+        ],
+        "interactions": [
+          "prisoner",
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 10,
+    "start": 30.4,
+    "end": 31.8,
+    "sentence": "A bald policeman in uniform continued to beat the prisoner hard with a swing stick, and grabbed the prisoner's left hand with his left hand. During the beating, the prisoner walked around the chair and ran to the side of the stool.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "uniform",
+          "beating",
+          "prisoner",
+          "hand",
+          "left hand",
+          "chair",
+          "stool",
+          "side"
+        ],
+        "actions": [
+          "beating",
+          "grabbing",
+          "walking",
+          "running",
+          "beating",
+          "grabbing"
+        ],
+        "interactions": [
+          "prisoner",
+          "chair",
+          "stool",
+          "side"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 11,
+    "start": 30.4,
+    "end": 31.8,
+    "sentence": "Another bald policeman behind him stepped forward and held down the prisoner.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "bald policeman"
+        ],
+        "actions": [
+          "stepped forward"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 12,
+    "start": 31.4,
+    "end": 33.0,
+    "sentence": "A bald policeman in uniform continued to beat the prisoner hard with a swing stick. The prisoner was forced to sit on a chair. Due to the fight, the chair overturned and the prisoner leaned back and used his left leg. He lifted up and kicked the policeman who beat him.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "uniform",
+          "swing stick",
+          "prisoner",
+          "chair",
+          "left leg",
+          "right leg",
+          "kicked"
+        ],
+        "actions": [
+          "beating",
+          "beat",
+          "sitting on a chair",
+          "overturned",
+          "leaning back",
+          "used his left leg",
+          "lifted up",
+          "kicked the policeman"
+        ],
+        "interactions": [
+          "prisoner",
+          "policeman",
+          "prisoner",
+          "prisoner",
+          "prisoner",
+          "prisoner",
+          "prisoner",
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 13,
+    "start": 33.3,
+    "end": 34.6,
+    "sentence": "A bald policeman in uniform continued to beat the prisoner with a swing stick. The prisoner stood up from the chair and was forced to the corner. The policeman pursued him and continued to beat him; second A policeman came forward and wanted to beat the prisoner.",
+    "extracted": [
+      {
+        "id": "policeman_1",
+        "type": "person",
+        "attributes": [
+          "male",
+          "bald"
+        ],
+        "actions": [
+          "beating with a swing stick"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      },
+      {
+        "id": "policeman_2",
+        "type": "person",
+        "attributes": [
+          "male",
+          "uniform"
+        ],
+        "actions": [
+          "beating with a swing stick"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 14,
+    "start": 34.7,
+    "end": 37.1,
+    "sentence": "A bald policeman in uniform continued to beat the prisoner with a stick, hitting him one at a time without stopping.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "beating"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 15,
+    "start": 34.7,
+    "end": 37.1,
+    "sentence": "The other policeman also slowly walked towards the opposite side of the prisoner; the policeman who had been beating the prisoner moved a little to the left, and the two formed an encirclement around the prisoner, blocking him in the corner.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 16,
+    "start": 37.5,
+    "end": 41.6,
+    "sentence": "Two policemen in black uniforms surrounded the prisoner and beat him. One hit him hard with a stick, and the other punched him.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "prisoner"
+        ],
+        "actions": [
+          "beaten"
+        ],
+        "interactions": [
+          "prisoner",
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 17,
+    "start": 41.6,
+    "end": 42.8,
+    "sentence": "The bald policeman in black uniform on the left picked up something from the ground and continued to beat the prisoner.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "black uniform"
+        ],
+        "actions": [
+          "picking up something from the ground",
+          "beating the prisoner"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 18,
+    "start": 42.6,
+    "end": 44.7,
+    "sentence": "Two policemen in black uniforms surrounded the prisoner in the corner and beat him. One kept beating him with a stick, and the other kicked him and stopped.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 19,
+    "start": 44.9,
+    "end": 49.2,
+    "sentence": "A bald policeman in uniform continued to beat the prisoner with a swing stick",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "uniform"
+        ],
+        "actions": [
+          "beating the prisoner"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 20,
+    "start": 44.9,
+    "end": 49.2,
+    "sentence": "The other policeman watched silently retreating, sometimes stepping forward, sometimes retreating, and then walked out, while the policeman who beat the prisoner with a stick continued.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 21,
+    "start": 48.0,
+    "end": 52.6,
+    "sentence": "A bald policeman wearing a black uniform went out and looked around before walking back.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "bald",
+          "black uniform"
+        ],
+        "actions": [
+          "went out",
+          "looked around",
+          "walked back"
+        ],
+        "interactions": [
+          "unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 22,
+    "start": 50.0,
+    "end": 57.9,
+    "sentence": "A bald policeman wearing a black uniform came back and kicked the prisoner.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "prisoner"
+        ],
+        "actions": [
+          "kicked"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 23,
+    "start": 57.9,
+    "end": 61.5,
+    "sentence": "A bald policeman wearing a black uniform looked in the direction of the prisoner who was being beaten. Another policeman who had been beating the prisoner with a stick continued.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "prisoner"
+        ],
+        "actions": [
+          "being beaten"
+        ],
+        "interactions": [
+          "prisoner",
+          "policeman_1",
+          "policeman_2"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 24,
+    "start": 61.5,
+    "end": 66.0,
+    "sentence": "A bald policeman wearing a black uniform continued to beat the prisoner with a stick.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "unknown"
+        ],
+        "actions": [
+          "beating"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 25,
+    "start": 66.0,
+    "end": 79.0,
+    "sentence": "Two bald policemen wearing black uniforms looked in the direction of the prisoner, shaking their bodies from side to side. One of the policemen stepped forward to see the prisoner's condition.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "prisoner"
+        ],
+        "actions": [
+          "shaking their bodies from side to side"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 26,
+    "start": 67.3,
+    "end": 83.3,
+    "sentence": "A bald policeman in black uniform walked towards the door with a stick in his hand and walked to the door.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "black uniform"
+        ],
+        "actions": [
+          "walked towards the door"
+        ],
+        "interactions": [
+          "door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 27,
+    "start": 83.5,
+    "end": 88.7,
+    "sentence": "A bald policeman in black uniform holding a stick in his hand turned around and came back from the door and walked to the prisoner.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "black uniform"
+        ],
+        "actions": [
+          "turned around",
+          "came back from the door"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 28,
+    "start": 88.7,
+    "end": 90.5,
+    "sentence": "A bald policeman in black uniform changed his hand and held a stick.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "black uniform"
+        ],
+        "actions": [
+          "changed his hand"
+        ],
+        "interactions": [
+          "stick"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 29,
+    "start": 90.9,
+    "end": 158.2,
+    "sentence": "Two bald policemen in black uniforms surrounded the prisoner in the corner and beat him",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "black uniform"
+        ],
+        "actions": [
+          "surrounded",
+          "beating"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 30,
+    "start": 158.4,
+    "end": 170.2,
+    "sentence": "The prisoner’s legs were placed sideways on the ground. The trouser leg of his right leg became a little higher, exposing his socks. A uniformed policeman held him down.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "uniformed policeman"
+        ],
+        "actions": [
+          "held him down"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 31,
+    "start": 159.4,
+    "end": 168.2,
+    "sentence": "Another bald policeman in black uniform walked to the door and looked around, then came back and watched the prisoner being beaten.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "black uniform"
+        ],
+        "actions": [
+          "walked to the door",
+          "looked around",
+          "came back and watched the prisoner being beaten"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 32,
+    "start": 170.5,
+    "end": 174.4,
+    "sentence": "The bald policeman in black uniform stood for a while and came forward.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "black uniform"
+        ],
+        "actions": [
+          "stood for a while",
+          "came forward"
+        ],
+        "interactions": [
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 33,
+    "start": 174.5,
+    "end": 178.8,
+    "sentence": "The bald policeman in black uniform touched the wall on one side with his left hand and then touched the shoulder of another policeman with his right hand. The other policeman stopped and looked at him.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "bald",
+          "black uniform"
+        ],
+        "actions": [
+          "touched the wall",
+          "touched the shoulder"
+        ],
+        "interactions": [
+          "policeman 1"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 34,
+    "start": 178.8,
+    "end": 185.7,
+    "sentence": "A policeman got off the prisoner, put away his stick, and walked out the door. He looked at his hands in the process, and finally walked out to the right.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "prisoner",
+          "stick"
+        ],
+        "actions": [
+          "got off",
+          "put away",
+          "walked out the door"
+        ],
+        "interactions": [
+          "prisoner",
+          "stick"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 35,
+    "start": 186.0,
+    "end": 193.1,
+    "sentence": "The prisoner's legs remained straight, and the bald policeman in black uniform watched him motionless.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "black uniform"
+        ],
+        "actions": [
+          "watched him motionless"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 36,
+    "start": 193.2,
+    "end": 196.2,
+    "sentence": "A bald policeman in black uniform came back from the door with a stick in his hand and walked towards the lying prisoner.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "black uniform"
+        ],
+        "actions": [
+          "came back from the door",
+          "walked towards the lying prisoner"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 37,
+    "start": 196.5,
+    "end": 209.7,
+    "sentence": "Two bald policemen in black uniforms looked at the lying prisoner, pacing left and right without making any other movements.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "black uniform"
+        ],
+        "actions": [
+          "pacing"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 38,
+    "start": 209.9,
+    "end": 222.0,
+    "sentence": "The bald policeman in black uniform with a stick in his hand turned around from the door and returned to his original position.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "bald",
+          "black uniform"
+        ],
+        "actions": [
+          "turned around",
+          "returned to original position"
+        ],
+        "interactions": [
+          "door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 39,
+    "start": 225.5,
+    "end": 230.8,
+    "sentence": "The policeman leaning against the wall turned around and spoke to another policeman holding a stick behind him, while making gestures with his right hand.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "turned around",
+          "spoke to another policeman holding a stick behind him",
+          "making gestures with his right hand"
+        ],
+        "interactions": [
+          "another policeman",
+          "policeman",
+          "stick"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 40,
+    "start": 229.5,
+    "end": 231.8,
+    "sentence": "The policeman holding the stick changed the stick to his left hand, raised the back of his right hand to check, put it down, and then walked out the door.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "stick"
+        ],
+        "actions": [
+          "changed the stick to his left hand",
+          "raised the back of his right hand to check",
+          "put it down",
+          "walked out the door"
+        ],
+        "interactions": [
+          "door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 41,
+    "start": 231.8,
+    "end": 436.4,
+    "sentence": "A policeman kept talking to the prisoner, and the prisoner moved his legs and feet from time to time.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "talking",
+          "moving",
+          "moving from time to time"
+        ],
+        "interactions": [
+          "prisoner",
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 42,
+    "start": 437.4,
+    "end": 447.0,
+    "sentence": "A bald policeman in black uniform walked out the door, glanced to the right, and then returned",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "black uniform"
+        ],
+        "actions": [
+          "walked out the door",
+          "glanced to the right",
+          "returned"
+        ],
+        "interactions": [
+          "door",
+          "right",
+          "returning"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 43,
+    "start": 445.4,
+    "end": 447.0,
+    "sentence": "Another bald policeman entered the room with him",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "entered the room"
+        ],
+        "interactions": [
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 44,
+    "start": 447.0,
+    "end": 452.6,
+    "sentence": "Two bald policemen in black uniforms walked towards the prisoner",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "black uniform"
+        ],
+        "actions": [
+          "walked"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 45,
+    "start": 452.5,
+    "end": 457.0,
+    "sentence": "A bald policeman in black uniform stood on the side of the prisoner while gesticulating and talking.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "black uniform"
+        ],
+        "actions": [
+          "stood on the side of the prisoner",
+          "gesticulating",
+          "talking"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 46,
+    "start": 450.5,
+    "end": 459.0,
+    "sentence": "The other policeman walked towards the door and looked to the right after walking out of the door.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "walked",
+          "looked to the right"
+        ],
+        "interactions": [
+          "door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 47,
+    "start": 458.0,
+    "end": 473.0,
+    "sentence": "The bald policeman in black uniform spoke to the prisoner, put his hands on his hips, patted his shirt with his hands, and took out his mobile phone to look at it.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "black uniform"
+        ],
+        "actions": [
+          "spoke to the prisoner",
+          "put his hands on his hips",
+          "patted his shirt with his hands",
+          "took out his mobile phone to look at it"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 48,
+    "start": 473.2,
+    "end": 480.0,
+    "sentence": "After the bald policeman in black uniform made a call with his mobile phone, he put the mobile phone to his ear and walked out. He and another policeman looked to the right at the door, and then Return inside.",
+    "extracted": [
+      {
+        "id": "policeman_1",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "black uniform"
+        ],
+        "actions": [
+          "made a call",
+          "put the mobile phone to his ear",
+          "walked out"
+        ],
+        "interactions": [
+          "another policeman",
+          "door",
+          "right"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 49,
+    "start": 480.3,
+    "end": 492.3,
+    "sentence": "The policeman who spoke to the prisoner took out his mobile phone to make a call and walked back and forth in the room twice.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "walked back and forth"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 50,
+    "start": 488.3,
+    "end": 492.3,
+    "sentence": "Another policeman outside the door walked to the prisoner.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "walked"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 51,
+    "start": 494.1,
+    "end": 499.4,
+    "sentence": "The bald policeman in black uniform walked into the house and walked out while talking on the phone.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "bald",
+          "black uniform"
+        ],
+        "actions": [
+          "walked into the house",
+          "walked out"
+        ],
+        "interactions": [
+          "talked on the phone"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 52,
+    "start": 500.3,
+    "end": 501.2,
+    "sentence": "The bald policeman in black uniform next to the prisoner kicked the prisoner.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "black uniform",
+          "prisoner"
+        ],
+        "actions": [
+          "kicked"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 53,
+    "start": 502.4,
+    "end": 504.3,
+    "sentence": "The bald policeman in black uniform who was on the phone rushed in and kicked the prisoner hard, while keeping his right hand in a talking position.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "bald policeman",
+          "black uniform"
+        ],
+        "actions": [
+          "rushed in",
+          "kicked the prisoner hard"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 54,
+    "start": 505.2,
+    "end": 509.8,
+    "sentence": "The policeman on the phone pointed at the prisoner with his left hand, then raised his leg to kick the prisoner, but immediately put it down.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "prisoner"
+        ],
+        "actions": [
+          "kicking",
+          "pointed at"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 55,
+    "start": 510.0,
+    "end": 519.2,
+    "sentence": "The policeman who made the call walked out of the door and walked around before entering the house.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "walked",
+          "walked around",
+          "entered the house"
+        ],
+        "interactions": [
+          "policeman",
+          "door",
+          "house"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 56,
+    "start": 518.3,
+    "end": 530.2,
+    "sentence": "The policeman who made the call walked around the door again and walked outside. While talking on the phone, he walked behind the other policeman in the house, walked around again and walked out of the house.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "door",
+          "phone"
+        ],
+        "actions": [
+          "walked around the door",
+          "walked outside",
+          "walked behind the other policeman",
+          "walked around again",
+          "walked out of the house"
+        ],
+        "interactions": [
+          "other policeman",
+          "policeman",
+          "house"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 57,
+    "start": 530.3,
+    "end": 533.2,
+    "sentence": "Then another policeman followed out.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 58,
+    "start": 536.2,
+    "end": 538.8,
+    "sentence": "Two policemen came out at the door and faced the direction of the prisoner. The policeman who was holding a mobile phone and talking went around from behind the other policeman to the front of him, walked into the room, left hand on his hip.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "mobile phone"
+        ],
+        "actions": [
+          "walked into the room",
+          "left hand on his hip"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 59,
+    "start": 540.0,
+    "end": 542.5,
+    "sentence": "The man behind the policeman standing on the phone stands with his hands on his hips.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "stands with his hands on his hips"
+        ],
+        "interactions": [
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 60,
+    "start": 542.5,
+    "end": 547.4,
+    "sentence": "The two policemen walked to the prisoner again, and then the policeman who was talking hung up the phone and took the phone from his ears to the position in front of his stomach.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "walked to the prisoner",
+          "hung up the phone",
+          "took the phone from his ears to the position in front of his stomach"
+        ],
+        "interactions": [
+          "prisoner",
+          "policeman",
+          "phone"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 61,
+    "start": 549.3,
+    "end": 552.5,
+    "sentence": "Two policemen stood beside the prisoner, one with his hands on his hips in a lecturing posture, and the other with his arms crossed after hanging up the phone.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "prisoner"
+        ],
+        "actions": [
+          "hanging up the phone"
+        ],
+        "interactions": [
+          "phone"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 62,
+    "start": 552.5,
+    "end": 555.3,
+    "sentence": "The policeman with his arms crossed lowered his arms and drooped naturally.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "policeman"
+        ],
+        "actions": [
+          "lowered his arms and drooped naturally"
+        ],
+        "interactions": [
+          "unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse004_x264",
+    "sent_idx": 63,
+    "start": 555.3,
+    "end": 559.8,
+    "sentence": "The policeman with his arms on both sides of his pants took out a bottle of white stuff from his right pocket and shook it.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "policeman",
+          "arms on both sides of his pants",
+          "bottle of white stuff",
+          "right pocket"
+        ],
+        "actions": [
+          "took out a bottle of white stuff",
+          "shook it"
+        ],
+        "interactions": [
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 0,
+    "start": 0.0,
+    "end": 3.3,
+    "sentence": "The prison guard wearing black trousers and gray short-sleeved uniforms sitting next to the wall suddenly stood up and walked into the room opposite the white table, and knocked his white table against the side of the door, diagonally leave;",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "prison guard",
+          "black trousers",
+          "gray short-sleeved uniforms"
+        ],
+        "actions": [
+          "sitting next to the wall",
+          "standing up",
+          "walked into the room opposite the white table"
+        ],
+        "interactions": [
+          "knocked his white table against the side of the door",
+          "diagonally left"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 1,
+    "start": 0.0,
+    "end": 3.3,
+    "sentence": "A prison guard wearing black trousers, gray short-sleeved uniform and hat sat in front of a white table and looked at him, stood up",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "prison guard",
+          "black trousers",
+          "gray short-sleeved uniform",
+          "hat"
+        ],
+        "actions": [
+          "sitting",
+          "looking at him",
+          "standing up"
+        ],
+        "interactions": [
+          "him"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 2,
+    "start": 0.0,
+    "end": 3.3,
+    "sentence": " Another fat prison guard wearing black trousers and gray short-sleeved uniform looked towards the direction he entered the room, and walked forward while looking.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "black trousers",
+          "gray short-sleeved uniform"
+        ],
+        "actions": [
+          "walked forward"
+        ],
+        "interactions": [
+          "prison guard"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 3,
+    "start": 3.5,
+    "end": 7.5,
+    "sentence": "The prison guard who entered the small room came out and put his left hand into the left pocket of his pants.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "unknown"
+        ],
+        "actions": [
+          "entered",
+          "came out"
+        ],
+        "interactions": [
+          "prison guard",
+          "left hand",
+          "left pocket",
+          "pants"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 4,
+    "start": 3.5,
+    "end": 7.5,
+    "sentence": "The fat prison guard walked towards him",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "fat"
+        ],
+        "actions": [
+          "walked"
+        ],
+        "interactions": [
+          "him"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 5,
+    "start": 7.7,
+    "end": 9.4,
+    "sentence": "The prison guard who came out of the room walked to a white chair and kicked the chair with his right foot. The chair was kicked diagonally opposite the table.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "white chair",
+          "kicked diagonally opposite the table"
+        ],
+        "actions": [
+          "walked",
+          "kicked the chair"
+        ],
+        "interactions": [
+          "table"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 6,
+    "start": 9.6,
+    "end": 11.3,
+    "sentence": "The prison guard who was close to the door of the hut raised the table in front of him to his side and opened the wrong door of the hut.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "table"
+        ],
+        "actions": [
+          "raised",
+          "opened the wrong door"
+        ],
+        "interactions": [
+          "hut"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 7,
+    "start": 11.5,
+    "end": 13.9,
+    "sentence": "The prison guard at the table at the door of the hut walks towards the hut",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "walks"
+        ],
+        "interactions": [
+          "hut"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 8,
+    "start": 11.5,
+    "end": 13.9,
+    "sentence": "The fat prison guard stepped forward and grabbed him, preventing him from entering.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "fat",
+          "prison guard"
+        ],
+        "actions": [
+          "stepped forward",
+          "grabbed him"
+        ],
+        "interactions": [
+          "him"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 9,
+    "start": 14.2,
+    "end": 18.8,
+    "sentence": "The prison guard was dragged to the white table on the wall. He pulled the chair and sat down. The fat prison guard walked to the side of the table.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "white table"
+        ],
+        "actions": [
+          "dragged",
+          "pulled",
+          "sitting down"
+        ],
+        "interactions": [
+          "prison guard",
+          "chair",
+          "side of the table"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 10,
+    "start": 22.6,
+    "end": 23.7,
+    "sentence": "A man with a white plastic bag on his head was pinned down on the table by three prison guards.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "white plastic bag"
+        ],
+        "actions": [
+          "pinned down"
+        ],
+        "interactions": [
+          "prison guards"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse005_x264",
+    "sent_idx": 11,
+    "start": 23.9,
+    "end": 30.4,
+    "sentence": "Another prison guard appeared from one side of the table. He stepped on the table, walked towards the person whose head was pressed, and then stepped on the back of his neck, applying force and keeping still. The other prison guards Watch and stay still.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "table",
+          "prison guard",
+          "neck",
+          "head",
+          "force",
+          "still"
+        ],
+        "actions": [
+          "stepped on",
+          "walked",
+          "applied force",
+          "kept still"
+        ],
+        "interactions": [
+          "Watch",
+          "stay still"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 0,
+    "start": 3.0,
+    "end": 7.6,
+    "sentence": "A police car drove into a grassy field",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "grass",
+          "field"
+        ],
+        "actions": [
+          "driving"
+        ],
+        "interactions": [
+          "unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 1,
+    "start": 3.0,
+    "end": 7.6,
+    "sentence": "A man wearing a black cotton top and black pants also entered the grassland beside the police car.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "male",
+          "black cotton top",
+          "black pants"
+        ],
+        "actions": [
+          "entered the grassland beside the police car"
+        ],
+        "interactions": [
+          "police car"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 2,
+    "start": 7.0,
+    "end": 11.2,
+    "sentence": "The police car stopped, and two police officers got out of the driver's seat and the passenger's seat respectively. The policeman who got off the driver's seat pushed the man in black cotton clothes down, and the policeman who got out of the passenger's seat also Run towards them.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "unknown",
+          "black cotton clothes"
+        ],
+        "actions": [
+          "push",
+          "run"
+        ],
+        "interactions": [
+          "man in black cotton clothes"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 3,
+    "start": 11.5,
+    "end": 13.1,
+    "sentence": "A man wearing a black cotton top and black pants was pushed to the ground, his legs were raised, and a policeman pressed down on his back",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "black cotton top",
+          "black pants"
+        ],
+        "actions": [
+          "pushed to the ground",
+          "pressed down on his back"
+        ],
+        "interactions": [
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 4,
+    "start": 13.1,
+    "end": 13.5,
+    "sentence": "Another policeman also approached them from the right.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "approached"
+        ],
+        "interactions": [
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 5,
+    "start": 13.8,
+    "end": 16.5,
+    "sentence": "A man walked past the police car, approached the grass, and looked back.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "walked past",
+          "approached the grass",
+          "looked back"
+        ],
+        "interactions": [
+          "police car",
+          "grass"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 6,
+    "start": 15.5,
+    "end": 17.8,
+    "sentence": "Another policeman quickly rushed to the prisoner surrounded by three policemen and raised his leg to step on him.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "prisoner"
+        ],
+        "actions": [
+          "rushed",
+          "raised his leg to step on him"
+        ],
+        "interactions": [
+          "prisoner",
+          "prisoners"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 7,
+    "start": 16.9,
+    "end": 18.2,
+    "sentence": "A policeman walked around the man's head from the right side of his legs and finally squatted down on the side of the man's head on the ground, reaching out to test his breath.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "policeman",
+          "unknown",
+          "head",
+          "legs",
+          "side of head",
+          "ground",
+          "squatted down",
+          "breath"
+        ],
+        "actions": [
+          "walked",
+          "around the man's head",
+          "reaching out to test his breath"
+        ],
+        "interactions": [
+          "man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 8,
+    "start": 19.2,
+    "end": 21.2,
+    "sentence": "Another policeman came over. Now there were five policemen surrounding a man on the ground. One of the policemen turned around.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "male",
+          "unknown"
+        ],
+        "actions": [
+          "turned around"
+        ],
+        "interactions": [
+          "man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 9,
+    "start": 22.2,
+    "end": 24.0,
+    "sentence": "The men on the left and right sides of the man's head on the ground squatted down close to his head, and the other three police officers stood on both sides of the man on the ground and looked at each other.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "ground",
+          "squatted down",
+          "close to his head",
+          "police officers",
+          "left",
+          "right",
+          "squatting down",
+          "three",
+          "on the ground",
+          "looked at each other"
+        ],
+        "actions": [
+          "squatted down",
+          "squatting down"
+        ],
+        "interactions": [
+          "police officers"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 10,
+    "start": 24.1,
+    "end": 30.8,
+    "sentence": "Three policemen suppressed the man in black cotton clothes lying on the ground, while the other two stood aside.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "black cotton clothes"
+        ],
+        "actions": [
+          "lying on the ground"
+        ],
+        "interactions": [
+          "man in black cotton clothes"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 11,
+    "start": 30.8,
+    "end": 34.5,
+    "sentence": "A policeman walked in the opposite direction, turned a corner and came back",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "walked",
+          "turned a corner"
+        ],
+        "interactions": [
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 12,
+    "start": 35.0,
+    "end": 39.9,
+    "sentence": " Another policeman joined the three policemen in beating the people on the ground. Four people punched and kicked them, while a policeman looked on.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "policeman",
+          "beating people on the ground"
+        ],
+        "actions": [
+          "punched and kicked"
+        ],
+        "interactions": [
+          "four people punched and kicked them",
+          "policeman looked on"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 13,
+    "start": 40.0,
+    "end": 42.9,
+    "sentence": "One policeman stood up and walked back, and another policeman joined in the beating.",
+    "extracted": [
+      {
+        "id": "policeman_1",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "stood up",
+          "walked back"
+        ],
+        "interactions": [
+          "beating"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 14,
+    "start": 43.0,
+    "end": 50.1,
+    "sentence": "A policeman stood up and circled around the three policemen who were beating the people on the ground. He walked to the side of the heads on the ground and squatted down to look.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 15,
+    "start": 50.9,
+    "end": 62.7,
+    "sentence": "Four policemen surrounded the people on the ground and continued to beat them.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "beating"
+        ],
+        "interactions": [
+          "people"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 16,
+    "start": 62.7,
+    "end": 69.7,
+    "sentence": "Four police officers stopped beating people on the ground",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "beating"
+        ],
+        "interactions": [
+          "people"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 17,
+    "start": 62.7,
+    "end": 69.7,
+    "sentence": "Two policemen on both sides of the people on the ground stood up",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "stood up"
+        ],
+        "interactions": [
+          "people on the ground"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 18,
+    "start": 62.7,
+    "end": 69.7,
+    "sentence": "The men on both sides of his legs are still squatting and looking at him",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "squatting",
+          "looking at"
+        ],
+        "interactions": [
+          "him"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 19,
+    "start": 70.1,
+    "end": 74.1,
+    "sentence": "The two policemen on both sides of the man on the ground bent slightly and looked at the man on the ground.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "bent slightly",
+          "looked at"
+        ],
+        "interactions": [
+          "man on the ground"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 20,
+    "start": 70.1,
+    "end": 74.1,
+    "sentence": "The policeman on the right side of the man stood up and looked at his head",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "stood up",
+          "looked at his head"
+        ],
+        "interactions": [
+          "man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 21,
+    "start": 70.1,
+    "end": 74.1,
+    "sentence": "The policeman on the left also stood up",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "stood up"
+        ],
+        "interactions": [
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 22,
+    "start": 78.1,
+    "end": 80.5,
+    "sentence": "The policeman on the left side of the man on the ground pushed the man's buttocks and turned him over. The policeman bent over.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "man",
+          "left side"
+        ],
+        "actions": [
+          "pushed",
+          "turned over"
+        ],
+        "interactions": [
+          "man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 23,
+    "start": 84.5,
+    "end": 86.5,
+    "sentence": "A white police car drove in with its lights on.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "white",
+          "police car"
+        ],
+        "actions": [
+          "driving"
+        ],
+        "interactions": [
+          "light on"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 24,
+    "start": 88.8,
+    "end": 95.8,
+    "sentence": "A policeman got out of the driver's seat of the white police car and walked towards the other policemen",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "white police car"
+        ],
+        "actions": [
+          "got out of the driver's seat"
+        ],
+        "interactions": [
+          "other policemen"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 25,
+    "start": 95.5,
+    "end": 98.6,
+    "sentence": "The policeman who got out of the driver's seat of the white police car walked to where the other four policemen were. Several of them stood side by side. There was one policeman left next to the man on the ground. Another policeman next to the man on the ground walked towards the white police car. The driver's seat came down next to the policeman.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "white police car"
+        ],
+        "actions": [
+          "got out of the driver's seat"
+        ],
+        "interactions": [
+          "four policemen",
+          "one policeman",
+          "man on the ground",
+          "another policeman",
+          "driver's seat"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 26,
+    "start": 99.6,
+    "end": 107.5,
+    "sentence": "The man on the ground was struggling and rolling. One policeman was still bending down and holding him down. Another policeman came over to see the situation, and the other policemen stood and watched.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 27,
+    "start": 97.5,
+    "end": 100.1,
+    "sentence": "A white police car drove up opposite the white police car in the middle and parked on the right opposite the middle police car.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "white",
+          "police car"
+        ],
+        "actions": [
+          "driving up",
+          "parked on the right"
+        ],
+        "interactions": [
+          "middle police car"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 28,
+    "start": 105.5,
+    "end": 119.1,
+    "sentence": " Two policemen wearing blue clothes came down and walked towards the place where the five policemen were in the middle.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "blue clothes"
+        ],
+        "actions": [
+          "came down",
+          "walked towards"
+        ],
+        "interactions": [
+          "five policemen"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 29,
+    "start": 108.5,
+    "end": 114.5,
+    "sentence": "The policeman on the side of the prisoner's head on the ground walked from the side of his head to his feet and picked up something from the ground.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "prisoner",
+          "ground"
+        ],
+        "actions": [
+          "walked",
+          "picking something from the ground"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 30,
+    "start": 116.5,
+    "end": 118.5,
+    "sentence": "Another policeman walked in on the right and looked at the prisoner",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "walked in",
+          "looked at"
+        ],
+        "interactions": [
+          "prisoner"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 31,
+    "start": 120.0,
+    "end": 121.5,
+    "sentence": "The man on the ground was pulled up by the policeman on the left side of his body. The man leaned against the policeman, his back on the policeman's chest, and the policeman strangled his neck with his hands.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "unknown"
+        ],
+        "actions": [
+          "pulled up",
+          "strangled"
+        ],
+        "interactions": [
+          "policeman",
+          "man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 32,
+    "start": 124.4,
+    "end": 130.4,
+    "sentence": " Five policemen surrounded the man lying on the ground. One of the five policemen slapped his waistband again.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "ground"
+        ],
+        "actions": [
+          "slapped his waistband again"
+        ],
+        "interactions": [
+          "man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 33,
+    "start": 124.4,
+    "end": 130.4,
+    "sentence": " Three policemen were communicating next to them, forming a triangle.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "communicating"
+        ],
+        "interactions": [
+          "policemen"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 34,
+    "start": 130.8,
+    "end": 135.2,
+    "sentence": "One of the five policemen walked to one side of the three policemen, and one of the three policemen left and walked to the white police car in the middle.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "white police car"
+        ],
+        "actions": [
+          "walked to one side"
+        ],
+        "interactions": [
+          "three policemen",
+          "policemen"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 35,
+    "start": 135.7,
+    "end": 140.2,
+    "sentence": "After the two policemen approaching the white police car on the far right said something, one of the policemen stepped to the side of the police car's reversing mirror, with his back to the police car. The two looked to the side and four people were surrounding the ground.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "white police car",
+          "reversing mirror"
+        ],
+        "actions": [
+          "said something",
+          "stepped to the side"
+        ],
+        "interactions": [
+          "four people",
+          "ground"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 36,
+    "start": 132.2,
+    "end": 143.9,
+    "sentence": "A policeman walked to the white police car in the middle, opened the driver's door, took something, closed the door, and walked back.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "white",
+          "police car"
+        ],
+        "actions": [
+          "walked",
+          "opened the driver's door",
+          "took something",
+          "closed the door",
+          "walked back"
+        ],
+        "interactions": [
+          "policeman",
+          "driver",
+          "something"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse006_x264",
+    "sent_idx": 37,
+    "start": 143.9,
+    "end": 146.0,
+    "sentence": "The prisoner on the ground was dragged by a policeman towards the white police car in the middle, followed by six other policemen, and the policeman who had just walked over from the white police car gave way to them.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "white police car",
+          "policeman",
+          "prisoner",
+          "ground"
+        ],
+        "actions": [
+          "dragged",
+          "given way to"
+        ],
+        "interactions": [
+          "six other policemen",
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 0,
+    "start": 0.1,
+    "end": 3.5,
+    "sentence": "A man wearing black short-sleeved green shorts walked towards the door at one end of the corridor. A tall and strong man in black uniform walked towards him. This man was tall and strong. The man raised his right hand and slapped the man in shorts.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "male",
+          "black uniform"
+        ],
+        "actions": [
+          "slapped"
+        ],
+        "interactions": [
+          "tall and strong man in black uniform"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 1,
+    "start": 0.1,
+    "end": 3.5,
+    "sentence": "At the same time, a man walked in the opposite direction of the man in shorts. When the strong man hit the man in shorts, he turned back.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "male",
+          "shorts"
+        ],
+        "actions": [
+          "hit",
+          "turning back"
+        ],
+        "interactions": [
+          "strong man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 2,
+    "start": 3.3,
+    "end": 4.5,
+    "sentence": "The man in shorts was slapped to the ground by the strong man opposite.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "strong man"
+        ],
+        "actions": [
+          "slapped to the ground"
+        ],
+        "interactions": [
+          "opposite"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 3,
+    "start": 4.9,
+    "end": 6.5,
+    "sentence": "Man in shorts stands up",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "stands up"
+        ],
+        "interactions": []
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 4,
+    "start": 7.9,
+    "end": 9.5,
+    "sentence": "The strong man pointed in the direction of the front door to let the man in shorts pass.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 5,
+    "start": 9.8,
+    "end": 19.6,
+    "sentence": "The man in shorts and short sleeves walked towards the corridor door, and the strong man in black clothes followed behind him",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "shorts",
+          "short sleeves"
+        ],
+        "actions": [
+          "walked",
+          "towards the corridor door"
+        ],
+        "interactions": [
+          "strong man in black clothes"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 6,
+    "start": 9.8,
+    "end": 19.6,
+    "sentence": "The man in shorts and short sleeves walked a few steps and looked back at the strong man in black clothes.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "shorts",
+          "short sleeves"
+        ],
+        "actions": [
+          "walked a few steps"
+        ],
+        "interactions": [
+          "strong man in black clothes"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 7,
+    "start": 18.8,
+    "end": 21.6,
+    "sentence": "Someone walked out of the middle door",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "walked out"
+        ],
+        "interactions": [
+          "middle door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 8,
+    "start": 16.7,
+    "end": 19.7,
+    "sentence": "The man coming out of the door in the middle of the corridor is about to be followed by a strong man.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "coming out of the door"
+        ],
+        "interactions": [
+          "strong man"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 9,
+    "start": 20.0,
+    "end": 21.7,
+    "sentence": "The strong man raised his left finger and turned around.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "raised his left finger",
+          "turned around"
+        ],
+        "interactions": [
+          "unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 10,
+    "start": 21.7,
+    "end": 37.9,
+    "sentence": "The strong man walked towards the opposite side of the corridor door, and the man in shorts followed him at a distance.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "walked",
+          "towards the opposite side of the corridor door"
+        ],
+        "interactions": [
+          "man in shorts"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 11,
+    "start": 22.2,
+    "end": 24.6,
+    "sentence": "The strong man turned and left.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "turned",
+          "left"
+        ],
+        "interactions": []
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 12,
+    "start": 28.6,
+    "end": 30.1,
+    "sentence": "A man wearing shorts found that his shoes were broken, lowered his head to check",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "shorts",
+          "broken shoes"
+        ],
+        "actions": [
+          "found that his shoes were broken"
+        ],
+        "interactions": [
+          "lowered his head to check"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse007_x264",
+    "sent_idx": 13,
+    "start": 30.3,
+    "end": 37.7,
+    "sentence": "Men in shorts also follow the men with bigger bodies.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "following"
+        ],
+        "interactions": [
+          "men with bigger bodies"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 0,
+    "start": 0.0,
+    "end": 10.3,
+    "sentence": "A female police officer in black uniform bent down and took off the shoes of a woman who was sitting in the prison and threw the shoes on the ground",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "black uniform"
+        ],
+        "actions": [
+          "took off the shoes"
+        ],
+        "interactions": [
+          "prison",
+          "woman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 1,
+    "start": 11.4,
+    "end": 28.0,
+    "sentence": "The female police officer asked the woman to stand up and lie on the wall and searched her body from bottom to top; the woman was wearing a blue top; at this time, there was another male policeman standing at the door.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "blue top"
+        ],
+        "actions": [
+          "wearing a blue top",
+          "stood up",
+          "lying on the wall"
+        ],
+        "interactions": [
+          "another male policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 2,
+    "start": 27.4,
+    "end": 39.2,
+    "sentence": "The police asked the woman to lift her right leg back, and then the female police officer bent over and searched with both hands.",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "red top"
+        ],
+        "actions": [
+          "lifting",
+          "bent over",
+          "searching with both hands"
+        ],
+        "interactions": [
+          "police"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 3,
+    "start": 40.2,
+    "end": 42.4,
+    "sentence": "A bald male policeman came into prison",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "came into prison"
+        ],
+        "interactions": [
+          "prison"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 4,
+    "start": 43.5,
+    "end": 48.6,
+    "sentence": "The male policeman who just came in put a quilt in the house and walked out.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "unknown",
+          "quilt"
+        ],
+        "actions": [
+          "came in",
+          "put a quilt in the house"
+        ],
+        "interactions": [
+          "house"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 5,
+    "start": 49.0,
+    "end": 71.4,
+    "sentence": "The female police officer stood up and faced the woman. The woman turned around and put her hand into her shirt to grope",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "groping"
+        ],
+        "interactions": [
+          "woman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 6,
+    "start": 72.4,
+    "end": 84.0,
+    "sentence": "The female police officer walked to the door, but the woman was still groping for her shirt.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "groping for her shirt"
+        ],
+        "interactions": [
+          "woman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 7,
+    "start": 85.3,
+    "end": 94.4,
+    "sentence": "The woman took out a red object from her clothes. The female police officer came from the door and took away the red object from the woman's hand.",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "red top"
+        ],
+        "actions": [
+          "took out",
+          "red object"
+        ],
+        "interactions": [
+          "police officer",
+          "hand"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 8,
+    "start": 95.2,
+    "end": 96.4,
+    "sentence": "The female police officer walked outside the door.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "walked",
+          "outside the door"
+        ],
+        "interactions": [
+          "door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 9,
+    "start": 97.8,
+    "end": 131.4,
+    "sentence": "The woman faced the door, spoke towards the door, and sometimes made gestures and movements with her hands.",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "unknown"
+        ],
+        "actions": [
+          "faced the door",
+          "spoke towards the door",
+          "made gestures and movements with her hands"
+        ],
+        "interactions": [
+          "door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 10,
+    "start": 132.9,
+    "end": 136.6,
+    "sentence": "The woman walked out of the door",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "unknown"
+        ],
+        "actions": [
+          "walking",
+          "holding a child"
+        ],
+        "interactions": [
+          "unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 11,
+    "start": 145.3,
+    "end": 149.6,
+    "sentence": "The police pushed the woman hard into the prison. The woman fell to the ground and hit her head on the bed.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 12,
+    "start": 150.0,
+    "end": 155.8,
+    "sentence": "A male policeman came in from outside the door",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "came in"
+        ],
+        "interactions": [
+          "door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 13,
+    "start": 156.4,
+    "end": 163.6,
+    "sentence": "The policeman straddled the woman's legs and bent down to look at the woman who fell on the ground. He reached out to pull her up and walked outside the door.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "policeman",
+          "straddled the woman's legs"
+        ],
+        "actions": [
+          "bent down to look at the woman",
+          "reached out to pull her up"
+        ],
+        "interactions": [
+          "woman",
+          "fell on the ground",
+          "walked outside the door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 14,
+    "start": 164.7,
+    "end": 166.0,
+    "sentence": "Two policemen walked into the house one after another.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "walked"
+        ],
+        "interactions": [
+          "house"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 15,
+    "start": 167.9,
+    "end": 168.7,
+    "sentence": "A policeman bent down to straighten the woman’s shoes and then walked out of the house",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "straightening shoes",
+          "walked out of the house"
+        ],
+        "interactions": [
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 16,
+    "start": 169.3,
+    "end": 172.5,
+    "sentence": "A policeman squatted down to ask about the woman’s situation and put his left hand on her back; the woman was lying on the ground with her head hanging down.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown",
+          "unknown",
+          "unknown",
+          "unknown",
+          "unknown",
+          "left hand"
+        ],
+        "actions": [
+          "squatting down",
+          "asking about the woman's situation"
+        ],
+        "interactions": [
+          "woman",
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 17,
+    "start": 173.1,
+    "end": 175.4,
+    "sentence": "A policeman walked in",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "red top"
+        ],
+        "actions": [
+          "walking",
+          "holding a child"
+        ],
+        "interactions": [
+          "child"
+        ]
+      },
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [],
+        "actions": [
+          "policeman"
+        ],
+        "interactions": [
+          "unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 18,
+    "start": 176.2,
+    "end": 197.3,
+    "sentence": "The female policeman held a book in her hand and bent down to ask the woman. The male policeman sat behind the woman, and the woman leaned on the male policeman’s hand.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 19,
+    "start": 198.3,
+    "end": 201.8,
+    "sentence": "Another policeman came in",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "came in"
+        ],
+        "interactions": [
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 20,
+    "start": 202.5,
+    "end": 214.9,
+    "sentence": " After a male policeman brought in a roll of paper towels, he and another male policeman wiped the woman’s face",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "unknown",
+          "paper towels"
+        ],
+        "actions": [
+          "brought in",
+          "wiped the woman's face"
+        ],
+        "interactions": [
+          "policeman 1",
+          "policeman 2"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 21,
+    "start": 215.8,
+    "end": 220.6,
+    "sentence": "A policeman walks out the door",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "walks"
+        ],
+        "interactions": [
+          "door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 22,
+    "start": 221.2,
+    "end": 226.7,
+    "sentence": "Two policemen in the house were taking care of the woman on the ground. The policeman who went out walked back into the house!",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "red top"
+        ],
+        "actions": [
+          "walking",
+          "holding a child"
+        ],
+        "interactions": [
+          "child"
+        ]
+      },
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "unknown"
+        ],
+        "interactions": [
+          "unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 23,
+    "start": 227.2,
+    "end": 230.9,
+    "sentence": "A policeman walked out again",
+    "extracted": [
+      {
+        "id": "person_1",
+        "type": "person",
+        "attributes": [
+          "female",
+          "red top"
+        ],
+        "actions": [
+          "walking",
+          "holding a child"
+        ],
+        "interactions": [
+          "child"
+        ]
+      },
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "unknown"
+        ],
+        "interactions": [
+          "unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 24,
+    "start": 231.4,
+    "end": 235.0,
+    "sentence": "A policeman stood up",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "stood up"
+        ],
+        "interactions": []
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 25,
+    "start": 236.6,
+    "end": 240.5,
+    "sentence": "The female police officer stood up and walked out of the house",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "stood up",
+          "walked out of the house"
+        ],
+        "interactions": [
+          "house"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 26,
+    "start": 247.1,
+    "end": 255.1,
+    "sentence": "Three policemen came to the door, one walked into the door, and two pointed at the woman outside the door.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "came to the door",
+          "walked into the door",
+          "pointed at the woman"
+        ],
+        "interactions": [
+          "policemen",
+          "woman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 27,
+    "start": 263.5,
+    "end": 266.4,
+    "sentence": "Two policemen left the door",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "left the door"
+        ],
+        "interactions": [
+          "door"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse008_x264",
+    "sent_idx": 28,
+    "start": 270.9,
+    "end": 273.5,
+    "sentence": "The policeman at the door also left",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "unknown"
+        ],
+        "actions": [
+          "left"
+        ],
+        "interactions": [
+          "policeman"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse009_x264",
+    "sent_idx": 0,
+    "start": 0.0,
+    "end": 7.2,
+    "sentence": "At night, there were a bunch of men standing at the bulletin board on the street, and there was another man standing on the other side, holding a child in his arms.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse009_x264",
+    "sent_idx": 1,
+    "start": 8.9,
+    "end": 15.2,
+    "sentence": "The man standing on the other side slammed the child in his hands to the ground, and then picked up the child.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "male",
+          "unknown"
+        ],
+        "actions": [
+          "slammed",
+          "picking up the child"
+        ],
+        "interactions": [
+          "child"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse009_x264",
+    "sent_idx": 2,
+    "start": 14.9,
+    "end": 16.0,
+    "sentence": "The man picked up the child and ran towards the group of men, and then hit one of the men with the child heavily in his hand.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "male",
+          "unknown"
+        ],
+        "actions": [
+          "picking up the child",
+          "ran towards the group of men"
+        ],
+        "interactions": [
+          "men",
+          "hit one of the men with the child heavily in his hand"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse009_x264",
+    "sent_idx": 3,
+    "start": 16.3,
+    "end": 22.2,
+    "sentence": "The man who was hit caught the child, and then the two men pulled each other to grab the child.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [],
+        "actions": [
+          "hit",
+          "pulled"
+        ],
+        "interactions": [
+          "child"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse009_x264",
+    "sent_idx": 4,
+    "start": 23.2,
+    "end": 26.9,
+    "sentence": "A man slammed the child in his hand to the ground, picked it up, and then rushed to the crowd on one side.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "male",
+          "unknown"
+        ],
+        "actions": [
+          "slammed the child",
+          "picked it up",
+          "rushed to the crowd"
+        ],
+        "interactions": [
+          "crowd"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse010_x264",
+    "sent_idx": 0,
+    "start": 0.0,
+    "end": 2.3,
+    "sentence": "There are two silver cars driving opposite each other on the road and passing each other.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "silver cars"
+        ],
+        "actions": [
+          "passing each other"
+        ],
+        "interactions": [
+          "road"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse010_x264",
+    "sent_idx": 1,
+    "start": 3.2,
+    "end": 5.1,
+    "sentence": "Two puppies ran onto the road, one dog ran across the road, and the other dog was pinned down by a car. The car didn't know it and drove away without stopping.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "road",
+          "car",
+          "puppies",
+          "dog",
+          "dog",
+          "car",
+          "unknown"
+        ],
+        "actions": [
+          "ran",
+          "crossed the road",
+          "pinned down"
+        ],
+        "interactions": [
+          "road",
+          "puppies",
+          "dog",
+          "car"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse010_x264",
+    "sent_idx": 2,
+    "start": 6.0,
+    "end": 11.9,
+    "sentence": "The suppressed puppy kicked its legs in the air, struggling and rolling",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "puppy"
+        ],
+        "actions": [
+          "kicked its legs in the air, struggling and rolling"
+        ],
+        "interactions": [
+          "unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse010_x264",
+    "sent_idx": 3,
+    "start": 6.0,
+    "end": 14.9,
+    "sentence": "The other dog saw it and ran around a corner, then circled around the pressed puppy, lowered its head to sniff it, and then ran away.",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "dog",
+          "pressed puppy"
+        ],
+        "actions": [
+          "saw it",
+          "ran around a corner",
+          "circled around the pressed puppy",
+          "lowered its head to sniff it",
+          "ran away"
+        ],
+        "interactions": [
+          "other dog",
+          "pressed puppy"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse010_x264",
+    "sent_idx": 4,
+    "start": 12.9,
+    "end": 19.5,
+    "sentence": "A curly-haired woman in shorts ran over from the side of the road. She raised her hand to signal vehicles not to run over the puppy, and ran towards the struggling puppy lying on the ground.",
+    "extracted": []
+  },
+  {
+    "video_id": "Abuse010_x264",
+    "sent_idx": 5,
+    "start": 15.5,
+    "end": 21.3,
+    "sentence": "The puppy that just left ran two laps and came back",
+    "extracted": [
+      {
+        "id": "object_2",
+        "type": "object",
+        "attributes": [
+          "puppy"
+        ],
+        "actions": [
+          "ran",
+          "came back"
+        ],
+        "interactions": [
+          "unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse010_x264",
+    "sent_idx": 6,
+    "start": 21.5,
+    "end": 32.2,
+    "sentence": "The woman picked up the puppy lying motionless on the ground with both hands, walked to the side of the road and walked away",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "puppy"
+        ],
+        "actions": [
+          "picking up",
+          "lying motionless",
+          "walking to the side of the road",
+          "walking away"
+        ],
+        "interactions": [
+          "road"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse010_x264",
+    "sent_idx": 7,
+    "start": 21.5,
+    "end": 32.2,
+    "sentence": "Another puppy followed the woman and walked away, circling around to see the injured puppy's injuries.",
+    "extracted": [
+      {
+        "id": "person_2",
+        "type": "person",
+        "attributes": [
+          "unknown",
+          "puppy"
+        ],
+        "actions": [
+          "puppy",
+          "walked away"
+        ],
+        "interactions": [
+          "unknown"
+        ]
+      }
+    ]
+  },
+  {
+    "video_id": "Abuse010_x264",
+    "sent_idx": 8,
+    "start": 32.7,
+    "end": 37.1,
+    "sentence": "A blue tricycle passed by on the road, followed by a black car.",
+    "extracted": [
+      {
+        "id": "object_1",
+        "type": "object",
+        "attributes": [
+          "road",
+          "blue tricycle"
+        ],
+        "actions": [
+          "passed by"
+        ],
+        "interactions": [
+          "black car"
+        ]
+      }
+    ]
+  }
+]

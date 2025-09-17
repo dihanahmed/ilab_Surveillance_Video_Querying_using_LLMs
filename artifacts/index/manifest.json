@@ -1,0 +1,13 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "index_type": "IndexFlatIP (cosine via normalized vectors)",
+  "vectors": 230,
+  "sources": {
+    "csv": "/Users/dihan_ahmed/DRIVE_1/UTS/4th semester/ilab/artifacts/ucf_llm_featrures_2.csv"
+  },
+  "files": {
+    "faiss_index": "/Users/dihan_ahmed/DRIVE_1/UTS/4th semester/ilab/artifacts/index/faiss.index",
+    "metadata_jsonl": "/Users/dihan_ahmed/DRIVE_1/UTS/4th semester/ilab/artifacts/index/meta.jsonl"
+  }
+}
